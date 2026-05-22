@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\H2165389\\Downloads\\FMP\\FMP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F947631-B45E-FF5A-AF9B-6BCD9B99E136}|Assembly-CSharp.csproj|c:\\users\\h2165389\\downloads\\fmp\\fmp\\assets\\scripts\\pickupsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F947631-B45E-FF5A-AF9B-6BCD9B99E136}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pickupsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F947631-B45E-FF5A-AF9B-6BCD9B99E136}|Assembly-CSharp.csproj|c:\\users\\h2165389\\downloads\\fmp\\fmp\\assets\\scripts\\interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F947631-B45E-FF5A-AF9B-6BCD9B99E136}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F947631-B45E-FF5A-AF9B-6BCD9B99E136}|Assembly-CSharp.csproj|C:\\Users\\H2165389\\Downloads\\FMP\\FMP\\Assets\\Scripts\\PlayerInteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F947631-B45E-FF5A-AF9B-6BCD9B99E136}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\PlayerInteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F947631-B45E-FF5A-AF9B-6BCD9B99E136}|Assembly-CSharp.csproj|C:\\Users\\H2165389\\Downloads\\FMP\\FMP\\Assets\\Scripts\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F947631-B45E-FF5A-AF9B-6BCD9B99E136}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F947631-B45E-FF5A-AF9B-6BCD9B99E136}|Assembly-CSharp.csproj|C:\\Users\\H2165389\\Downloads\\FMP\\FMP\\Assets\\Scripts\\PlayerCombat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F947631-B45E-FF5A-AF9B-6BCD9B99E136}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\PlayerCombat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Interactable.cs",
+              "DocumentMoniker": "C:\\Users\\H2165389\\Downloads\\FMP\\FMP\\Assets\\Scripts\\Interactable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Interactable.cs",
+              "ToolTip": "C:\\Users\\H2165389\\Downloads\\FMP\\FMP\\Assets\\Scripts\\Interactable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Interactable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T11:41:02.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerInteraction.cs",
+              "DocumentMoniker": "C:\\Users\\H2165389\\Downloads\\FMP\\FMP\\Assets\\Scripts\\PlayerInteraction.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerInteraction.cs",
+              "ToolTip": "C:\\Users\\H2165389\\Downloads\\FMP\\FMP\\Assets\\Scripts\\PlayerInteraction.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerInteraction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T10:57:59.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerCombat.cs",
+              "DocumentMoniker": "C:\\Users\\H2165389\\Downloads\\FMP\\FMP\\Assets\\Scripts\\PlayerCombat.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerCombat.cs",
+              "ToolTip": "C:\\Users\\H2165389\\Downloads\\FMP\\FMP\\Assets\\Scripts\\PlayerCombat.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerCombat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T10:55:55.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PickupSystem.cs",
+              "DocumentMoniker": "C:\\Users\\H2165389\\Downloads\\FMP\\FMP\\Assets\\Scripts\\PickupSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PickupSystem.cs",
+              "ToolTip": "C:\\Users\\H2165389\\Downloads\\FMP\\FMP\\Assets\\Scripts\\PickupSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PickupSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T10:02:30.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\H2165389\\Downloads\\FMP\\FMP\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\H2165389\\Downloads\\FMP\\FMP\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T14:50:56.488Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

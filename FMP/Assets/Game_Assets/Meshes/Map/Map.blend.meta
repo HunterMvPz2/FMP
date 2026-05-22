@@ -1,0 +1,108 @@
+fileFormatVersion: 2
+guid: ea9c87d2485a79149bc9c538256e4cd8
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties:
+    - '#BAKERY{"meshName":["Cube","Cube.001","Cube.002","Cube.003","Cube.004","Cube.005","Cube.006","Cube.007","Cube.008","Cube.009","Cube.010","Cube.011","Cube.012","Cube.013","Cube.014","Cube.015","Cube.016","Cube.017","Cube.018","Cube.019","Cube.020","Cube.021","Cube.022","Cube.023","Cube.024","Cube.025","Cube.026","Cube.027","Cube.028","Cube.029","Cube.030","Cube.031","Cube.032","Cube.033","Cube.034","Cube.035","Cube.036","Cube.037","Cube.038","Cube.039","Cube.040","Cube.041","Cube.042","Cube.043","Cube.044","Cube.045","Cube.046","Cube.047","Cube.048","Cube.049","Cube.050","Cube.051","Cube.052","Cube.053","Cube.054","Cube.055","Cube.056","Cube.057","Cube.058","Cube.059","Cube.060","Cube.061","Cube.062","Cube.063","Cube.064","Cube.065","Cube.066","Cube.067","Cube.068","Cube.069","Cube.070","Cube.071","Cube.072","Cube.073","Cube.074","Cube.075","Cube.076","Cube.077","Cube.078","Cube.079","Cube.080","Cube.081","Cube.082","Cube.083","Cube.084","Cube.085","Cube.086","Cube.087","Cube.088","Cube.089","Cube.090","Cube.091","Cube.092","Cube.093","Cube.094","Cube.095","Cube.096","Cube.097","Cube.098","Cube.099","Cube.100","Cube.101","Cube.102","Cube.103","Cube.104","Cube.105","Cube.106","Cube.107","Cube.108","Cube.109","Cube.110","Cube.111","Cube.112","Cube.113","Cube.114"],"padding":[38,90,64,52,71,39,94,83,256,158,86,79,85,85,237,79,79,104,28,114,118,97,97,79,92,90,86,86,90,145,72,26,28,68,145,87,85,87,73,186,137,137,197,138,142,68,87,85,87,73,186,137,137,197,138,142,68,87,85,68,87,85,87,73,186,137,137,197,138,142,87,73,186,137,137,197,138,142,68,87,85,87,73,186,137,137,197,138,142,68,87,85,87,73,186,137,137,197,138,142,153,153,153,153,153,153,149,185,256,256,256,120,256,256,256],"unwrapper":[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]}'
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.3
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.3
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
