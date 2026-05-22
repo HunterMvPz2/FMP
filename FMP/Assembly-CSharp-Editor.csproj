@@ -67,43 +67,6 @@
     <Compile Include="Assets\UnityTechnologies\ParticlePack\Shared\Ramps\Editor\RampAssetEditor.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets\Editor\x64\Bakery\frender.dll" />
-    <None Include="Assets\Editor\x64\Bakery\optix.1.dll" />
-    <None Include="Assets\Editor\x64\Bakery\ftShowPreview.shader" />
-    <None Include="Assets\Editor\x64\Bakery\d3dcompiler_47.dll" />
-    <None Include="Assets\Editor\x64\Bakery\OpenImageDenoise_device_cuda.dll" />
-    <None Include="Assets\Editor\x64\Bakery\shaderSrc\ftrace.cginc" />
-    <None Include="Assets\Editor\x64\Bakery\ftVolumePreview.shader" />
-    <None Include="Assets\Editor\x64\Bakery\cudnn64_7.dll" />
-    <None Include="Assets\Editor\x64\Bakery\shaderSrc\ftTransformFarSphere.compute" />
-    <None Include="Assets\Editor\x64\Bakery\uvrepack.dll" />
-    <None Include="Assets\Editor\x64\Bakery\tbb.dll" />
-    <None Include="Assets\Editor\x64\Bakery\alphabuffergen.dll" />
-    <None Include="Assets\Editor\x64\Bakery\cudart64_91.dll" />
-    <None Include="Assets\Editor\x64\Bakery\tbbbind_2_0.dll" />
-    <None Include="Assets\Editor\x64\Bakery\OIDN2.dll" />
-    <None Include="Assets\Editor\x64\Bakery\halffloat2vb.dll" />
-    <None Include="Assets\Editor\x64\Bakery\tbbbind_2_5.dll" />
-    <None Include="Assets\Editor\x64\Bakery\tbb12.dll" />
-    <None Include="Assets\Editor\x64\Bakery\ftAtlas.shader" />
-    <None Include="Assets\Editor\x64\Bakery\optix.51.dll" />
-    <None Include="Assets\Editor\x64\Bakery\tbbbind.dll" />
-    <None Include="Assets\Editor\x64\Bakery\shaderSrc\ftCullFarSphere.compute" />
-    <None Include="Assets\Editor\x64\Bakery\simpleProgressBar.dll" />
-    <None Include="Assets\Editor\x64\Bakery\ftChecker.shader" />
-    <None Include="Assets\Editor\x64\Bakery\optix_denoiser.6.0.0.dll" />
-    <None Include="Assets\Editor\x64\Bakery\lmrebake.dll" />
-    <None Include="Assets\Editor\x64\Bakery\optix_denoiser.51.dll" />
-    <None Include="Assets\Editor\x64\Bakery\OpenImageDenoise.dll" />
-    <None Include="Assets\Editor\x64\Bakery\cudart64_90.dll" />
-    <None Include="Assets\Editor\x64\Bakery\OpenImageDenoise_core.dll" />
-    <None Include="Assets\Editor\x64\Bakery\optix.6.0.0.dll" />
-    <None Include="Assets\Editor\x64\Bakery\cudart32_91.dll" />
-    <None Include="Assets\Editor\x64\Bakery\uvgbuffergen.dll" />
-    <None Include="Assets\Editor\x64\Bakery\tbbmalloc.dll" />
-    <None Include="Assets\Editor\x64\Bakery\ftProjection.shader" />
-  </ItemGroup>
-  <ItemGroup>
     <Reference Include="UnityEngine">
       <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.38f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
       <Private>False</Private>
@@ -1188,6 +1151,10 @@
       <HintPath>Library\ScriptAssemblies\Unity.Timeline.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Unity.ShaderGraph.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.ShaderGraph.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Unity.Timeline">
       <HintPath>Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
       <Private>False</Private>
@@ -1202,10 +1169,6 @@
     </Reference>
     <Reference Include="Unity.RenderPipelines.Core.Editor.Shared">
       <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.Core.Editor.Shared.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.ShaderGraph.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.ShaderGraph.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Core.ShaderLibrary">
@@ -1381,22 +1344,6 @@
     <ProjectReference Include="Assembly-CSharp.csproj">
       <Project>{8F947631-B45E-FF5A-AF9B-6BCD9B99E136}</Project>
       <Name>Assembly-CSharp</Name>
-    </ProjectReference>
-    <ProjectReference Include="BakeryECS.csproj">
-      <Project>{0FCF5F16-D292-D198-E66F-6470882B0D03}</Project>
-      <Name>BakeryECS</Name>
-    </ProjectReference>
-    <ProjectReference Include="BakeryAPV.csproj">
-      <Project>{27CF080F-53D0-4585-8589-9C9653F7D060}</Project>
-      <Name>BakeryAPV</Name>
-    </ProjectReference>
-    <ProjectReference Include="BakeryRuntimeAssembly.csproj">
-      <Project>{4F34381C-9042-7301-70CA-720A6B427744}</Project>
-      <Name>BakeryRuntimeAssembly</Name>
-    </ProjectReference>
-    <ProjectReference Include="BakeryEditorAssembly.csproj">
-      <Project>{6E9BD953-D088-6E1B-F1C6-F2C132A74B0E}</Project>
-      <Name>BakeryEditorAssembly</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

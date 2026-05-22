@@ -1128,6 +1128,10 @@
       <HintPath>Library\ScriptAssemblies\Unity.Timeline.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Unity.ShaderGraph.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.ShaderGraph.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Unity.Timeline">
       <HintPath>Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
       <Private>False</Private>
@@ -1142,10 +1146,6 @@
     </Reference>
     <Reference Include="Unity.RenderPipelines.Core.Editor.Shared">
       <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.Core.Editor.Shared.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.ShaderGraph.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.ShaderGraph.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Core.ShaderLibrary">
@@ -1318,22 +1318,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="BakeryECS.csproj">
-      <Project>{0FCF5F16-D292-D198-E66F-6470882B0D03}</Project>
-      <Name>BakeryECS</Name>
-    </ProjectReference>
-    <ProjectReference Include="BakeryAPV.csproj">
-      <Project>{27CF080F-53D0-4585-8589-9C9653F7D060}</Project>
-      <Name>BakeryAPV</Name>
-    </ProjectReference>
-    <ProjectReference Include="BakeryRuntimeAssembly.csproj">
-      <Project>{4F34381C-9042-7301-70CA-720A6B427744}</Project>
-      <Name>BakeryRuntimeAssembly</Name>
-    </ProjectReference>
-    <ProjectReference Include="BakeryEditorAssembly.csproj">
-      <Project>{6E9BD953-D088-6E1B-F1C6-F2C132A74B0E}</Project>
-      <Name>BakeryEditorAssembly</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
